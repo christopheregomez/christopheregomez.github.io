@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Chris Gomez",
     "section": "",
     "text": "Hi, I’m Chris! I am currently a fourth year B.S. Environmental Studies major at UCSB. I plan to use my academic skills for a career in environmental planning. A few hobbies of mine include free diving, going to the gym, and playing basketball, and my favorite animal is the Hawksbill Sea Turtle. Poke around my website to learn more!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

@@ -1,6 +1,6 @@
 ---
 title: "Chris Gomez"
-image: careers/headshot.jpg 
+image: /Users/christophergomez/Downloads/Careers/headshot.jpg
 toc: false
 about: 
   template: trestles

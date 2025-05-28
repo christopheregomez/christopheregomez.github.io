@@ -3,20 +3,33 @@ project:
   output-dir: docs
 
 website:
-  title: "christopheregomez.github.io"
+  title: "Chris Gomez"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Resources
+      - href: /Users/christophergomez/Downloads/Careers/Resume.pdf # copied resume from finder and pasted it here and it says file cant be accessed when rendered 
+        text: Resume
+        target: _blank
+      - icon: github
+        href: https://github.com/christopheregomez 
+        target: _blank
+  page-footer: 
+    background: light
+    left: Copyright 2025, Chris Gomez
+    right: This website is built with [{{<fa brands github title = "GitHub octocat logo" >}}](https://github.com/christopheregomez){target=_blank}, [{{< fa brands r-project title = "R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
