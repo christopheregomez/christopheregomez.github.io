@@ -1,6 +1,6 @@
 ---
 title: "Chris Gomez"
-image: headshot.jpg
+image: ./headshot.jpg
 toc: false
 about: 
   template: trestles
