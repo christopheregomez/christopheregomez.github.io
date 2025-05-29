@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Resume.pdf
+      - href: ./Resume.pdf
         text: Resume
         target: _blank
       - icon: github
