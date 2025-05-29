@@ -9,14 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: resources.qmd
-        text: Resources
-      - href: /Users/christophergomez/Downloads/Careers/Resume.pdf # copied resume from finder and pasted it here and it says file cant be accessed when rendered 
+      - href: Resume.pdf
         text: Resume
         target: _blank
       - icon: github
         href: https://github.com/christopheregomez 
         target: _blank
+      - text: Projects
+      - text: Underwater Photography
+        
+        
+        
   page-footer: 
     background: light
     left: Copyright 2025, Chris Gomez
