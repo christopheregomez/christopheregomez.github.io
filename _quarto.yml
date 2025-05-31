@@ -14,10 +14,10 @@ website:
         href: index.qmd
       - text: About
         href: about.qmd
-      - text: Resume
-        href: Resume.pdf
       - text: Projects
         href: projects.qmd
+      - text: Resume
+        href: Resume.pdf
       - text: Underwater Photography
         href: underwater.qmd
       - icon: github
@@ -32,7 +32,7 @@ format:
   html:
     theme:
     - flatly
-    - custom.scss
+    - styles.scss
     mainfont: Raleway
     toc: true
     page-layout: full
