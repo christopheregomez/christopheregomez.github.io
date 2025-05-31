@@ -1,4 +1,15 @@
 ---
-title: "underwater"
 format: html
 ---
+
+`<h1 class="title center-text"> `{=html}
+
+Catalina
+
+`<h1 class="title center-text"> `{=html}
+
+Hawaii
+
+`<h1 class="title center-text"> `{=html}
+
+Santa Barbara
