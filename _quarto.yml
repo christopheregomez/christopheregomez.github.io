@@ -4,21 +4,24 @@ project:
 
 website:
   title: "Chris Gomez"
+  favicon: turtle.png
   navbar:
+    title: false
+    logo: turtle.png
+    logo-alt: "Chris Gomez"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: ./Resume.pdf
-        text: Resume
-        target: _blank
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Resume
+        href: Resume.pdf
+      - text: Projects
+        href: projects.qmd
+      - text: Underwater Photography
+        href: underwater.qmd
       - icon: github
         href: https://github.com/christopheregomez 
-        target: _blank
-      - text: Projects
-      - text: Underwater Photography
-        
-        
         
   page-footer: 
     background: light
@@ -27,12 +30,13 @@ website:
 
 format:
   html:
-    theme: 
-      light: flatly
-      dark: darkly
-    css: styles.css
+    theme:
+    - flatly
+    - custom.scss
+    mainfont: Raleway
     toc: true
     page-layout: full
-
+    
+    
 editor: visual
 
