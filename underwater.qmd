@@ -1,15 +1,43 @@
 ---
 format: html
+filters: 
+  - lightbox
+lightbox: auto
 ---
 
-`<h1 class="title center-text"> `{=html}
+## Catalina
 
-Catalina
+::: {layout="[[1, 1, 1], [1, 1, 1, 1]]"}
 
-`<h1 class="title center-text"> `{=html}
+![](Catalina/catalina-4.jpg){group="CAT"
+description="Stingray off Catalina, Summer 2018."}
+
+![](Catalina/catalina-8.jpg){group="CAT"
+description="Garibaldi off Catalina, Summer 2018."}
+
+
+![](Catalina/catalina-5.jpg){group="CAT"
+description="School of Garibaldi off Catalina, Summer 2024."}
+
+![](Catalina/catalina-2.jpg){group="CAT"
+description="Kelp off Catalina, Summer 2021."}
+
+![](Catalina/catalina-7.jpg){group="CAT"
+description="Kelp bass off Catalina, Summer 2021."}
+
+![](Catalina/catalina-1.jpg){group="CAT"
+description="School of Garibaldi and Kelp Bass off Catalina, Summer 2021."}
+
+![](Catalina/catalina-3.jpg){group="CAT"
+description="Garibaldi and kelp off Catalina, Summer 2021."}
+
+---
 
 Hawaii
 
-`<h1 class="title center-text"> `{=html}
+---
 
 Santa Barbara
+
+
+:::
