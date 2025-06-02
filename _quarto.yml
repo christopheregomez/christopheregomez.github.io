@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Chris Gomez"
+  title: "Chris Gomez" 
   favicon: turtle.png
   navbar:
-    title: false
+    title: Chris Gomez
     logo: turtle.png
     logo-alt: "Chris Gomez"
     left:
@@ -36,7 +36,6 @@ format:
     mainfont: Raleway
     toc: true
     page-layout: full
-    
     
 editor: visual
 

@@ -2,12 +2,10 @@
 title: "About"
 ---
 
-A bit more about me
+## A bit more about me
 
-<h1 class="title">
 
-What I do for work
+## What I do for work
 
-<h1 class="title">
 
-What I do for fun
+## What I do for fun
