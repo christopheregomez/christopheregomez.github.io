@@ -1,5 +1,7 @@
 /*-- scss:defaults --*/
 
+
+
 // Google font import
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); 
 
@@ -10,7 +12,9 @@
 
 // Colors
 // warm
-
+$light-orange: #ECBD95;
+$dark-orange: #BE5A47;
+$bright-orange: #f59090;
 
 // blues
 $dark-blue: #346575;
@@ -31,7 +35,9 @@ $light-grey2: #CAC8CF;
 $grey: #9BB1BB;
 
 // base document colors 
-
+$navbar-fg: $grey;
+$navbar-hl: $light-blue2;
+$body-bg: $light-grey;
 
 /*-- scss:rules --*/
 
