@@ -16,17 +16,17 @@ website:
         href: about.qmd
       - text: Projects
         href: projects.qmd
-      - text: Resume
-        href: Resume.pdf
       - text: Underwater Photography
         href: underwater.qmd
+      - text: Resume
+        href: Resume.pdf
       - icon: github
         href: https://github.com/christopheregomez 
         
   page-footer: 
     background: light
     left: Copyright 2025, Chris Gomez
-    right: This website is built with [{{<fa brands github title = "GitHub octocat logo" >}}](https://github.com/christopheregomez){target=_blank}, [{{< fa brands r-project title = "R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+    right: This website was built with [{{<fa brands github title = "GitHub octocat logo" >}}](https://github.com/christopheregomez){target=_blank}, [{{< fa brands r-project title = "R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:

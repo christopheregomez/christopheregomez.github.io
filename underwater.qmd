@@ -1,14 +1,14 @@
 ---
-title: Underwater Photography
+title: UNDERWATER PHOTOGRAPHY
 format: html
 filters: 
   - lightbox
 lightbox: auto
 ---
 
-These are underwater photos from places I have visited 
+Here are some underwater photos I took from places I have visited. 
 
-## Catalina
+## Catalina Island, California
 
 ::: {layout="[[1, 1, 1], [1, 1, 1, 1]]"}
 
@@ -37,7 +37,7 @@ description="Garibaldi and kelp off Casino Point Dive Park, Summer 2021."}
 :::
 ---
 
-## Hawaii
+## Big Island of Hawaii
 
 ::: {layout="[[1, 1, 1], [1, 1, 1, 1], [1, 1]]"}
 
@@ -71,7 +71,7 @@ description="White Mouth Moray Eel off Milolii, Summer 2024."}
 :::
 ---
 
-## Santa Barbara
+## Santa Barbara, California
 
 ::: {layout="[[1, 1, 1], [1, 1, 1, 1]]"}
 
