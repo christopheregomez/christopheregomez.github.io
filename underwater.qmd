@@ -9,6 +9,7 @@ lightbox:
   desc-position: bottom
   loop: true
 ---
+---
 
 Here are some underwater photos I took from places I have visited. 
 

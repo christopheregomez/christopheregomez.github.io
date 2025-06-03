@@ -1,19 +1,33 @@
 ---
 title: "ABOUT"
 toc: false
-filters:
+format: html
+filters: 
   - lightbox
-lightbox:
+lightbox: 
   match: auto
   effect: fade
   desc-position: bottom
   loop: true
 ---
 
-## A bit more about me
+::: {layout="[[1, 1, 1]]"}
 
+![](about-me/about-2.png){group="ME"
+description="Me at an L.A. Rams football game, Fall 2023."}
 
-## What I do for work
+![](about-me/about-1.jpg){group="ME"
+description="Me diving off the coast of Hawaii, Summer 2024."}
 
+![](about-me/about-3.jpg){group="ME"
+description="Me hiking in Santa Barbara, Spring 2024."}
+:::
+
+## Education
 
 ## What I do for fun
+
+## Where I work
+
+
+
