@@ -1,5 +1,5 @@
 ---
-title: "Chris Gomez"
+title: "CHRIS GOMEZ"
 image: ./headshot.jpg
 toc: false
 about: 
@@ -9,9 +9,11 @@ about:
   links: 
     - text: LinkedIn
       href: http://linkedin.com/in/christopher-gomez-346394210 
-    - text: GitHub
+    - icon: github 
+      text: GitHub
       href: https://github.com/christopheregomez 
-    - text: Email
+    - icon: envelope 
+      text: Email
       href: mailto::cgomez.1325@yahoo.com 
 ---
 

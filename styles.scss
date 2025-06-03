@@ -19,7 +19,7 @@ $bright-orange: #f59090;
 
 // blues
 $dark-blue: #346575;
-$dark-blue2: #375377;
+$dark-blue2: #265377;
 $light-blue: #79ACBD;
 $light-blue2: #6592D6;
 $light-blue3: #237fc9;
@@ -39,6 +39,7 @@ $light-grey3: #f0f0f9;
 $grey: #9BB1BB;
 
 // base document colors 
+$navbar-bg: $dark-blue2;
 $navbar-fg: $grey;
 $navbar-hl: $mint-green;
 $body-bg: $light-grey;
@@ -63,7 +64,7 @@ h1 {
 
 h2 {
   text-align: center;
-  color: $light-blue;
+  color: $light-blue2;
 }
 
 .title {

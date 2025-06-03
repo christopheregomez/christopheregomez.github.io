@@ -3,7 +3,11 @@ title: UNDERWATER PHOTOGRAPHY
 format: html
 filters: 
   - lightbox
-lightbox: auto
+lightbox: 
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
 ---
 
 Here are some underwater photos I took from places I have visited. 
@@ -73,8 +77,30 @@ description="White Mouth Moray Eel off Milolii, Summer 2024."}
 
 ## Santa Barbara, California
 
-::: {layout="[[1, 1, 1], [1, 1, 1, 1]]"}
+::: {layout="[[1, 1, 1], [1, 1, 1], [1, 1]]"}
 
+![](SB/SB-1.jpg){group="SB"
+description="California Spiny Lobster off Devereux Beach, Fall 2024."}
 
+![](SB/SB-4.jpg){group="SB"
+description="Horn Shark off Refugio Beach, Winter 2024."}
+
+![](SB/SB-7.jpg){group="SB"
+description="Octopus off Refugio Beach, Winter 2024,"}
+
+![](SB/SB-8.jpg){group="SB"
+description="Spanish Shawl off Refugio Beach, Winter 2024."}
+
+![](SB/SB-3.jpg){group="SB"
+description="Sea anemone and Pacific Purple sea urchin off Refugio Beach, Winter 2024."}
+
+![](SB/SB-6.jpg){group="SB"
+description="Pacific Purple sea urchins and algae off Refugio Beach, Winter 2024."}
+
+![](SB/SB-9.jpg){group="SB"
+description="Opaleye off Refugio Beach, Winter 2024."}
+
+![](SB/SB-2.jpg){group="SB"
+description="Thornback off Refugio Beach, Winter 2024."}
 
 :::

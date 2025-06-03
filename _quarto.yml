@@ -3,22 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Chris Gomez" 
+  title: Chris Gomez 
   favicon: turtle.png
   navbar:
-    title: Chris Gomez
+    title: "CHRIS GOMEZ"
     logo: turtle.png
-    logo-alt: "Chris Gomez"
+    logo-alt: "CHRIS GOMEZ"
     left:
-      - text: Home
+      - text: HOME
         href: index.qmd
-      - text: About
+      - text: ABOUT
         href: about.qmd
-      - text: Projects
+      - text: PROJECTS
         href: projects.qmd
-      - text: Underwater Photography
+      - text: UNDERWATER PHOTOGRAPHY
         href: underwater.qmd
-      - text: Resume
+      - text: RESUME
         href: Resume.pdf
       - icon: github
         href: https://github.com/christopheregomez 

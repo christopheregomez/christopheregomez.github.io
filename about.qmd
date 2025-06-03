@@ -1,5 +1,13 @@
 ---
 title: "ABOUT"
+toc: false
+filters:
+  - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
 ---
 
 ## A bit more about me
