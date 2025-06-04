@@ -30,7 +30,7 @@ description="School of Garibaldi off Casino Point Dive Park, Summer 2024."}
 description="Kelp off Casino Point Dive Park, Summer 2021."}
 
 ![](Catalina/catalina-7.jpg){group="CAT"
-description="Kelp bass off Casino Point Dive Park, Summer 2021."}
+description="Kelp bass and Garoibaldi off Casino Point Dive Park, Summer 2021."}
 
 ![](Catalina/catalina-1.jpg){group="CAT"
 description="School of Garibaldi and Kelp Bass off Casino Point Dive Park, Summer 2021."}

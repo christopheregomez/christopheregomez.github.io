@@ -31,24 +31,25 @@ I grew up in Southern Orange County and played water polo throughout high school
 
 In the summer of 2024, I participated in a two week field course program with Wildlands Studies on the Big Island of Hawaii, where I conducted hands-on scientific investigations of the islands diverse ecosystems. The program emphasized marine conservation and management with a focus on comparing indigenous and western marine management practices. Our work centered on coral reef field surveys and research methods, including the collection and analysis of data from protected and unprotected coastal areas to evaluate trends from previous years. We also explored coastal and forest environments to broaden our perspective on the connectivity between land and sea. 
 
-When I am not expanding my knowledge in a classroom setting you will find me free diving, at the gym, or on a hike exploring and enjoying the beautiful nature and wildlife on our planet. 
-
-## Education & Experience 
-
-### Education 
-
-**B.S. Environmental Studies**
-
-> University of California, Santa Barbara
-
-### Experience
-
-**Marine Management & Fieldwork**
-
-> [Wildlands Studies, Hawaii](https://www.wildlandsstudies.com/hawaii)
+When I am not expanding my knowledge in the classroom I enjoy watching sports, particularly the Lakers, Dodgers, and Rams. You will also find me at the gym, free diving, or on a hike exploring and enjoying the beautiful nature and wildlife on our planet. 
 
 ## Skillsets 
 
+**Fieldwork**
 
+> [Wildlands Studies, Hawaii](https://www.wildlandsstudies.com/hawaii)
 
+**Data Analysis & Visualization**
+
+> R Studio, Github, ggplot
+
+**Team Leadership**
+
+> Trader Joe's, Eagle Scout 
+
+## Certifications
+
+Eagle Scout, 2021
+
+LEED Green Associate
 
