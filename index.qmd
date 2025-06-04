@@ -7,7 +7,8 @@ about:
   image-shape: round
   image-width: 17em
   links: 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: http://linkedin.com/in/christopher-gomez-346394210 
     - icon: github 
       text: GitHub
@@ -17,4 +18,22 @@ about:
       href: mailto::cgomez.1325@yahoo.com 
 ---
 
-Hi, I'm Chris! I am currently a fourth year B.S. Environmental Studies major at UCSB. I plan to use my academic skills for a career in environmental planning. A few hobbies of mine include free diving, going to the gym, and playing basketball and my favorite animal is the Hawksbill Sea Turtle. Poke around my website to learn more!
+## WELCOME!
+
+I am currently a fourth year B.S. Environmental Studies major at UCSB with plans to pursue a career in environmental planning. This website showcases some of my recent projects, experiences, and more. Feel free to poke around!
+
+---
+
+## CURRENT POSITION
+
+**Crew Member**, Trader Joe's 
+
+Goleta, California
+
+---
+
+## EDUCATION 
+
+B.S. Environmental Studies, 2025
+
+##

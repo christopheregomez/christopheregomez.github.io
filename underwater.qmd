@@ -9,7 +9,6 @@ lightbox:
   desc-position: bottom
   loop: true
 ---
----
 
 Here are some underwater photos I took from places I have visited. 
 
@@ -40,7 +39,6 @@ description="School of Garibaldi and Kelp Bass off Casino Point Dive Park, Summe
 description="Garibaldi and kelp off Casino Point Dive Park, Summer 2021."}
 
 :::
----
 
 ## Big Island of Hawaii
 
@@ -74,7 +72,6 @@ description="Peacock Grouper at Kealakekua Bay, Summer 2024."}
 description="White Mouth Moray Eel off Milolii, Summer 2024."}
 
 :::
----
 
 ## Santa Barbara, California
 
