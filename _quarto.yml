@@ -6,9 +6,9 @@ website:
   title: Chris Gomez 
   favicon: turtle.png
   navbar:
-    title: "CHRIS GOMEZ"
-    logo: turtle.png
-    logo-alt: "CHRIS GOMEZ"
+    title: false
+    logo: turtle-name.png
+    logo-alt: "The name 'Chris Gomez' written in black text. Above 'Gomez' is a black turtle icon"
     left:
       - text: HOME
         href: index.qmd

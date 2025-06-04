@@ -5,12 +5,6 @@ $headings-font-weight:  600 !default;
 // Google font import
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); 
 
-// Image size
-.png {
-  width: 600px;
-  height: 200px;
-}
-
 // Colors
 // warm
 $light-orange: #ECBD95;
@@ -63,8 +57,13 @@ h1 {
 }
 
 h2 {
-  text-align: center;
+  text-align: left;
   color: $light-blue2;
+}
+
+h3 {
+   text-align: left;
+   color: $dark-orange;
 }
 
 .title {
@@ -79,4 +78,19 @@ body {
   line-height:1.5;
   font-size: 19.5px;
   font-weight: 250;
+}
+
+// resize logo
+.navbar-brand img {
+  max-height: 70px;
+  width: auto;
+}
+
+// animate logo 
+.navbar-logo {
+  transition: all 0.3s;
+}
+
+.navbar-logo:hover {
+  transform: translateY(-4px);
 }
