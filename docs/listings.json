@@ -1,6 +1,8 @@
 [
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/green_building/index.html"
+    ]
   }
 ]
