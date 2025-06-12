@@ -4,10 +4,10 @@ date: "2025-06-11"
 description: A case study report made for UCSB's "Green Building" course 
 categories: [case studies]
 author: Christopher Gomez
-image: reccen.jpg
+image: projects/reccen.jpg
 ---
 
-![Main entrance to UCSB's Recreation Center](reccen.jpg)
+![Main entrance to UCSB's Recreation Center](projects/reccen.jpg)
 
 ## {{< fa file >}} Description
 
@@ -15,9 +15,9 @@ This is a case study report on the sustainable features of UCSB's Recreation Cen
 
 ## {{< fa pencil >}} Analysis
 
-![The Rec Cen's estimated energy use](energy-use.jpeg)
+![The Rec Cen's estimated energy use](projects/energy-use.jpeg)
 
-![The Rec Cens's estimated water use summary](water-use.png)
+![The Rec Cens's estimated water use summary](projects/water-use.png)
 
 ## {{< fa link >}} Links
 
