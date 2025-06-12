@@ -29,7 +29,7 @@ website:
     right: This website was built with [{{<fa brands github title = "GitHub octocat logo" >}}](https://github.com/christopheregomez){target=_blank}, [{{< fa brands r-project title = "R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
-  html:
+  html: 
     theme:
     - flatly
     - styles.scss
