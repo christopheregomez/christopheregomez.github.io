@@ -1,6 +1,6 @@
 ---
 title: "Building Case Study of the UCSB Recreation Center"
-image: //Users/christophergomez/Downloads/ENVS-193DS/github/christopheregomez.github.io/Projects/green_building/reccen.jpg
+date: "2025-06-11"
 description: A case study report completed for the UCSB course ENVS-187 "Green Building"
 categories: [case studies]
 ---
