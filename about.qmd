@@ -11,29 +11,23 @@ lightbox:
   loop: true
 ---
 
-::: {layout="[[1, 1, 1, 1]]"} 
+::: {layout="[[1, 1, 1, 1]]"}
+![](about-me/about-2.png){group="ME" description="Me and a friend at a Los Angeles Rams football game, Fall 2023."}
 
-![](about-me/about-2.png){group="ME"
-description="Me and a friend at a Los Angeles Rams football game, Fall 2023."}
+![](about-me/about-1.jpg){group="ME" description="Me diving off the coast of Hawaii, Summer 2024."}
 
-![](about-me/about-1.jpg){group="ME"
-description="Me diving off the coast of Hawaii, Summer 2024."}
+![](about-me/about-4.png){group="ME" description="Conducting coral reef field surveys, Summer 2024."}
 
-![](about-me/about-4.png){group="ME"
-description="Conducting coral reef field surveys, Summer 2024."}
-
-![](about-me/about-3.jpg){group="ME"
-description="Me hiking in Santa Barbara, Spring 2024."}
-
+![](about-me/about-3.jpg){group="ME" description="Me hiking in Santa Barbara, Spring 2024."}
 :::
 
-I grew up in Southern Orange County and played water polo throughout high school. After graduating, I began my college journey at Saddleback Community College before transferring to UC Santa Barbara to continue pursuing a B.S. in Environmental Studies. At UCSB, I deepened my understanding of environmental planning, renewable energy, climate change mitigation, and green building. 
+I grew up in Southern Orange County and played water polo throughout high school. After graduating, I began my college journey at Saddleback Community College before transferring to UC Santa Barbara to continue pursuing a B.S. in Environmental Studies. At UCSB, I deepened my understanding of environmental planning, renewable energy, climate change mitigation, and green building.
 
-In the summer of 2024, I participated in a two week field course program with Wildlands Studies on the Big Island of Hawaii, where I conducted hands-on scientific investigations of the islands diverse ecosystems. The program emphasized marine conservation and management with a focus on comparing indigenous and western marine management practices. Our work centered on coral reef field surveys and research methods, including the collection and analysis of data from protected and unprotected coastal areas to evaluate trends from previous years. We also explored coastal and forest environments to broaden our perspective on the connectivity between land and sea. 
+In the summer of 2024, I participated in a two week field course program with Wildlands Studies on the Big Island of Hawaii, where I conducted hands-on scientific investigations of the islands diverse ecosystems. The program emphasized marine conservation and management with a focus on comparing indigenous and western marine management practices. Our work centered on coral reef field surveys and research methods, including the collection and analysis of data from protected and unprotected coastal areas to evaluate trends from previous years. We also explored coastal and forest environments to broaden our perspective on the connectivity between land and sea.
 
-When I am not expanding my knowledge in the classroom I enjoy watching sports, particularly the Lakers, Dodgers, and Rams. You will also find me at the gym, free diving, or on a hike exploring and enjoying the beautiful nature and wildlife on our planet. 
+When I am not expanding my knowledge in the classroom I enjoy watching sports, particularly the Lakers, Dodgers, and Rams. You will also find me at the gym, free diving, or on a hike exploring and enjoying the beautiful nature and wildlife on our planet.
 
-## Skillsets 
+## Skillsets
 
 **Fieldwork**
 
@@ -45,11 +39,10 @@ When I am not expanding my knowledge in the classroom I enjoy watching sports, p
 
 **Team Leadership**
 
-> Trader Joe's, Eagle Scout 
+> Trader Joe's, Eagle Scout
 
 ## Certifications
 
 Eagle Scout, 2021
 
 LEED Green Associate
-

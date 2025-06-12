@@ -1,0 +1,27 @@
+---
+title: "Building Case Study of the UCSB Recreation Center"
+image: //Users/christophergomez/Downloads/ENVS-193DS/github/christopheregomez.github.io/Projects/green_building/reccen.jpg
+description: A case study report completed for the UCSB course ENVS-187 "Green Building"
+categories: [case studies]
+---
+
+![banner image for case study](//Users/christophergomez/Downloads/ENVS-193DS/github/christopheregomez.github.io/Projects/green_building/reccen.jpg)
+
+## {{< fa file >}} Description
+
+This is a case study report on the sustainable features of UCSB's Recreation Center and potential opportunities for improvement.
+
+## {{< fa pencil >}} Illustrations
+
+![The Rec Cen's energy use](//Users/christophergomez/Downloads/ENVS-193DS/github/christopheregomez.github.io/Projects/green_building/energy-use.jpeg)
+
+![The Rec Cens's water use summary](//Users/christophergomez/Downloads/ENVS-193DS/github/christopheregomez.github.io/Projects/green_building/water-use.png)
+
+## {{< fa link >}} Links
+
+{{< fa file >}} [Case Study PDF](//Users/christophergomez/Downloads/ENVS-193DS/github/christopheregomez.github.io/Projects/green_building/REC_Case_Study_copy.pdf)
+
+
+
+
+
